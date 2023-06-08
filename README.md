@@ -1,5 +1,6 @@
 # DemoCommonsTextVuln
 
+
 The class `Internal`, defined in `foo/package-info.java`:
 
 - Exploits a vulnerability in Apache Commons Text to execute JavaScript (using
